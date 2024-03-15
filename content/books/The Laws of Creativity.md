@@ -10,6 +10,7 @@ Cover: http://books.google.com/books/content?id=s88szwEACAAJ&printsec=frontcover
 Rating 0-5: "5"
 DateRead: 2023-06-01
 Status: ✅ Read
+publish: true
 ---
 
 ![cover|150](http://books.google.com/books/content?id=s88szwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)

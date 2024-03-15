@@ -1,5 +1,6 @@
 ---
 title: Welcome to Dream. Build. Ship!
+publish: true
 ---
 Hello and welcome to `Dream. Build. Ship!`, the personal website of [[Daniel Lyons]].  Here, I collect anything and everything that I find interesting, and think might be beneficial to someone else on the internet. This site is a few things: 
 - There is a [[Blog]] section. Here, I will be making posts which are more polished. 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Markdown is a plain-text file format designed to be human readable and yet provide powerful styling information. 
 
 ## Flavors
