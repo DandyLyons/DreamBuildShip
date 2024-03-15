@@ -1,0 +1,1 @@
+[[index|alias for index]]
