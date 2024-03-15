@@ -54,7 +54,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
+        priority: ["frontmatter", "filesystem", "git"],
       }),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.SyntaxHighlighting({
@@ -65,12 +65,13 @@ const config: QuartzConfig = {
         keepBackground: false,
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
-      Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
+      Plugin.GitHubFlavoredMarkdown({linkHeadings: true, enableSmartyPants: true}),
+      Plugin.HardLineBreaks(),
+      Plugin.TableOfContents({collapseByDefault: true, showByDefault: true}),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [Plugin.ExplicitPublish()], // only publish files that have the "publish: true" frontmatter 
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
@@ -80,6 +81,8 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        includeEmptyFiles: false,
+        rssFullHtml: true,
       }),
       Plugin.Assets(),
       Plugin.Static(),
