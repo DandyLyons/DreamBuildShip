@@ -1,5 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Dream. Build. Ship!
 ---
-This is the website for Daniel Lyons. ;lskjf;slkjfs;
-[[another page]]
+Hello and welcome to `Dream. Build. Ship!`, [[Daniel Lyons|my]] personal website and [[Digital Garden]]. Here, I collect anything and everything that I find interesting, and think might be beneficial to someone else on the internet. Please be aware that, as a *Digital Garden*, this site follows the philosophy of [[Learn in Public]], meaning that much of this site is a work in progress. A lot of the content here might not be "polished" and that is okay. What appears here, is a [[Second Brain]] and a [Living document](https://en.wikipedia.org/wiki/Living_document#:~:text=A%20living%20document%2C%20also%20known,is%20continually%20edited%20and%20updated.). 
+
+## About the Infrastructure of this Site
+- I edit and write this site using a fantastic piece of software called [[Obsidian]]. 
+	- Obsidian is a [[Markdown]] editor with **many** powerful customizations. 
+	- Every file in an Obsidian vault is a simple `.md` file, which is plain text. 
+- I use [[Quartz]], a [[Static Site Generator]], to then convert those `.md` files into fully fleshed out HTML, CSS, and JS. 
+	- Under the hood Quartz uses [Hugo](https://gohugo.io/) for static site generation. 
+

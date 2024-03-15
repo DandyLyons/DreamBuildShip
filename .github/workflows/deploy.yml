@@ -11,8 +11,8 @@ permissions:
   id-token: write
  
 concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  group: "pages" # Specifies the name of the concurrency group. Workflows with the same group name will be limited to run concurrently.
+  cancel-in-progress: false # Specifies whether to cancel the currently running workflow runs when a new run is triggered. Set to `false` to allow multiple runs to execute concurrently.
  
 jobs:
   build:
