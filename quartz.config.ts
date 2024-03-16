@@ -28,23 +28,23 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#00CC00",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(10, 140, 58, 0.15)",
+          light: "#faf8f8", // page background
+          lightgray: "#e5e5e5",// inline code background, searchbox background
+          gray: "#b8b8b8", // date, metadata
+          darkgray: "#4e4e4e",// copy text, search bar, darkmode
+          dark: "#17a806", // headings
+          secondary: "#284b63", // site title, link (no hover)
+          tertiary: "#84a59d", // graph node sibling, link (hover)
+          highlight: "rgba(50, 255, 9, 0.15)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          light: "#090b08", // page background
+          lightgray: "#0e150d", // inline code background, searchbox background
+          gray: "#4d794a", // date, metadata
+          darkgray: "#eeeff0", // copy text, search bar, darkmode
+          dark: "#446d3d", // headings
+          secondary: "#45ba24", // site title, link (no hover)
+          tertiary: "#64f02b", // graph node sibling, link (hover)
           highlight: "rgba(10, 140, 58, 0.15)",
         },
       },

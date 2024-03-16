@@ -1,6 +1,8 @@
 ---
 title: "Swift Generics Demystified - Part 1: Concrete/Soft Types"
 publish: true
+aliases:
+  - post
 ---
 
 

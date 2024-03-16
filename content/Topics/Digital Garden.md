@@ -6,8 +6,10 @@ A Digital Garden is an online space that combines elements of a notebook and a b
 ## Some other Digital Gardens
 
 
-| Name                                                           | About                    |
-| -------------------------------------------------------------- | ------------------------ |
-| [Blue's Flowerbed](https://flowerbed.bluerose.garden/)         | Math, Japanese, CLI etc. |
-| [Gilbert's Digital Garden](https://garden.gilbertsanchez.com/) | Coding, Habits, etc.     |
-|                                                                |                          |
+| Name                                                                | Creator               | About                    |
+| ------------------------------------------------------------------- | --------------------- | ------------------------ |
+| [Blue's Flowerbed](https://flowerbed.bluerose.garden/)              |                       | Math, Japanese, CLI etc. |
+| [Gilbert's Digital Garden](https://garden.gilbertsanchez.com/)      |                       | Coding, Habits, etc.     |
+| [Fork My Brain](https://notes.nicolevanderhoeven.com/Fork+My+Brain) | Nicole van der Hoeven |                          |
+
+

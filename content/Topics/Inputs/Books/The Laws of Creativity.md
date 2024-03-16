@@ -23,5 +23,11 @@ publish: true
 - >
 
 ## Takeaways
-- 
--
+
+### Laws
+
+#### The Law of Ideation
+
+> [!quote] Sketch It Out
+> *Take your idea and make it real, no matter how rough. The final step is only attainable by taking the first step. Once you have something to look at and adjust, you can begin the journey towards completion.*
+> Ch. 13: The Laws of Creativity
