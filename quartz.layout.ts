@@ -26,12 +26,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
-    Component.RecentNotes({title: "Recent Notes", limit: 5}),
   ],
   right: [
     Component.Graph(),
-    Component.MobileOnly(Component.Explorer()),
+    Component.Explorer({
+      folderClickBehavior: "link",
+      folderDefaultState: "open",
+      useSavedState: true,
+    }),
     Component.TableOfContents(),
     Component.Backlinks(),
   ],
