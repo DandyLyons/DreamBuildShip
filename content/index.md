@@ -6,7 +6,7 @@ aliases:
 ---
 Hello and welcome to `Dream. Build. Ship!`, the personal website of [[Daniel Lyons]].  Here, I collect anything and everything that I find interesting, and think might be beneficial to someone else on the internet. 
 
-Please be aware that, as a *Digital Garden*, this site follows the philosophy of [[Learn in Public]], meaning that much of this site is a work in progress. A lot of the content here might not be "polished" and that is okay. What appears here, is a [[Second Brain]] and a [Living document](https://en.wikipedia.org/wiki/Living_document#:~:text=A%20living%20document%2C%20also%20known,is%20continually%20edited%20and%20updated.). 
+Please be aware that, as a [[Digital Garden]], this site follows the philosophy of [[Learn in Public]], meaning that much of this site is a work in progress. A lot of the content here might not be "polished" and that is okay. What appears here, is a [[Second Brain]] and a [Living document](https://en.wikipedia.org/wiki/Living_document#:~:text=A%20living%20document%2C%20also%20known,is%20continually%20edited%20and%20updated.). 
 
 But there are also sections of the site which are intended to be more "polished" and "releasable". For example the [[Blog/index|Blog]] section.
 
