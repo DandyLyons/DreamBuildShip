@@ -1,3 +1,5 @@
 ---
 publish: true
+aliases:
+  - Apps
 ---

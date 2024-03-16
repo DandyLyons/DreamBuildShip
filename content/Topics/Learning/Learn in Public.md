@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - perma/learn-in-public
 ---
 
 

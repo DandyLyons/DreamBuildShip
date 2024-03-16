@@ -18,9 +18,6 @@ publish: true
 # The Laws of Creativity
 
 
-## Notable Quotables
-- >
-- >
 
 ## Takeaways
 
