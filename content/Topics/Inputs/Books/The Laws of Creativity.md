@@ -1,5 +1,5 @@
 ---
-Title: The Laws of Creativity
+title: The Laws of Creativity
 Subtitle: Unlock Your Originality and Awaken Your Creative Genius
 Authors: Joey Cofone
 Category: 
